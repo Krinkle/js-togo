@@ -1,7 +1,8 @@
 {
   "extends": "eslint:recommended",
   "rules": {
-  	"no-implicit-globals": "error",
-  	"no-undef-init": "error"
+    "no-implicit-globals": "error",
+    "no-undef-init": "error",
+    "no-console": 0
   }
 }
