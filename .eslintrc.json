@@ -1,0 +1,7 @@
+{
+  "extends": "eslint:recommended",
+  "rules": {
+  	"no-implicit-globals": "error",
+  	"no-undef-init": "error"
+  }
+}
