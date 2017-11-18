@@ -4,6 +4,7 @@
   },
   "extends": "eslint:recommended",
   "rules": {
+    "curly": "error",
     "no-implicit-globals": "error",
     "no-undef-init": "error",
     "no-console": 0
