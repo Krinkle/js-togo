@@ -5,9 +5,9 @@
   "extends": "eslint:recommended",
   "rules": {
     "curly": "error",
-    "no-implicit-globals": "error",
-    "no-undef-init": "error",
+    "indent": ["error", "tab"],
     "no-console": 0,
-    "indent": ["error", "tab"]
+    "no-implicit-globals": "error",
+    "no-undef-init": "error"
   }
 }
