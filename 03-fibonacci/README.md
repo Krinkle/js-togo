@@ -8,7 +8,7 @@ arguments that are intended to be whole numbers. These are
 the `input`.
 
 Write a `fibonacci` function that takes one `n` parameter, and
-returns the appropiate Fibonacci number.
+returns the appropriate Fibonacci number.
 
 Hint: The `fibonacci` function may call itself recursively
 as needed.

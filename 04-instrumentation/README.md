@@ -1,9 +1,9 @@
 # 04: Instrumentation
 
 Create a copy of your program from the `03-fibonacci/` directory
-and save it in this direcory.
+and save it in this directory.
 
-This excercise will be about instrumentation. Instrumentation is
+This exercise will be about instrumentation. Instrumentation is
 the term for adding additional code that will measure aspects of
 your program. For today's example, we will measure how often
 the `fibonacci` function is called.

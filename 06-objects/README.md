@@ -1,6 +1,6 @@
 # 06: Objects
 
-This excercise is about the difference between primitive values
+This exercise is about the difference between primitive values
 and object values.
 
 * **primitive**: Any data that is not an object, including the types `string`, `number`, `boolean`, `null`, and `undefined`. Primitives are immutable. That means their value cannot be changed. When a transformation is applied to a primitive, a new value is created each time

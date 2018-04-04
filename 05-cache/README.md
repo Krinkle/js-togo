@@ -1,15 +1,15 @@
 # 05: Cache
 
 Create a copy of your program from the `04-instrumentation/` directory
-and save it in this direcory.
+and save it in this directory.
 
-Below is a callgraph for the function calls that result from `fib(5);`.
+Below is a call-graph for the function calls that result from `fib(5);`.
 
-![Callgraph](fib5.png)
+![Call-graph](fib5.png)
 
-The callgraph for `fib(3)` contains 5 function calls.
-The callgraph for `fib(4)` contains 9 function calls.
-The callgraph for `fib(5)` contains 15 function calls.
+The call-graph for `fib(3)` contains 5 function calls.
+The call-graph for `fib(4)` contains 9 function calls.
+The call-graph for `fib(5)` contains 15 function calls.
 
 The number of function calls grows exponentially due to the large amount
 of duplicate work. For example, in the above graph we can see that to compute
