@@ -10,7 +10,7 @@ The language does not provide ways to obtain input from elsewhere or ways to com
 
 ## Node.js
 
-Node.js (pronounced *node jay es*") is a system you can use to run JavaScript programs from the command-line. It runs your program in an special environment with built-in variables and functions that provide access to useful abilities. For example, the `process.argv` property of the [`process`](https://nodejs.org/api/process.html) module enables a program to read parameters from the command-line, and the [`console`](https://nodejs.org/api/console.html) module enables a program to write text back to the command-line. There are also modules for interacting with the hard drive, the system clock, the Internet, and more.
+Node.js (pronounced *node jay es*") is a system you can use to run JavaScript programs from the command-line. It runs your program in a special environment with built-in variables and functions that provide access to useful abilities. For example, the `process.argv` property of the [`process`](https://nodejs.org/api/process.html) module enables a program to read parameters from the command-line, and the [`console`](https://nodejs.org/api/console.html) module enables a program to write text back to the command-line. There are also modules for interacting with the hard drive, the system clock, the Internet, and more.
 
 ## Web browser
 
@@ -55,7 +55,7 @@ window.alert(name);
 
 This uses the built-in `alert()` method of the [Window](https://developer.mozilla.org/en-US/docs/Web/API/Window) interface, to create a model dialog that displays the specified string text. Try it out!
 
-Feel free to change or this embedded program to display different values. For example:
+Now change this embedded program to display different values. For example:
 
 * Try creating multiple variables, combining them into one, and displaying the combined string with `alert()`.
 * Try performing mathematical functions like addition or multiplication, and displaying the result.

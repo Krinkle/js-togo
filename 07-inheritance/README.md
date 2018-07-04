@@ -42,7 +42,7 @@ it will check if the object has a prototype. If there is one, it
 looks for the property there. This all happens in real-time.
 
 This cycle can repeat within the prototype object as well.
-This means you can create chains of linked objects.
+This means you can create a chain of linked objects.
 
 ```js
 var base = {
